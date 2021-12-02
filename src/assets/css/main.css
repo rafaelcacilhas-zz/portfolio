@@ -3241,7 +3241,7 @@ input, select, textarea {
 
 			#wrapper > .bg.fixed {
 				position: fixed;
-				width: 100vw;
+				ewidth: 100vw;
 				height: 100vh;
 			}
 
@@ -3919,7 +3919,7 @@ input, select, textarea {
 				}
 
 				#main > .posts > article .image {
-					max-width: 25rem;
+					max-width: 20rem;
 					margin-left: auto;
 					margin-right: auto;
 				}
