@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6256c50b.chunk.css",
-    "main.js": "/portfolio/static/js/main.6c7ec58f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6c7ec58f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.2864b8d3.chunk.css",
+    "main.js": "/portfolio/static/js/main.f15875c5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f15875c5.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
-    "static/js/2.2fe56757.chunk.js": "/portfolio/static/js/2.2fe56757.chunk.js",
-    "static/js/2.2fe56757.chunk.js.map": "/portfolio/static/js/2.2fe56757.chunk.js.map",
+    "static/js/2.f87fe216.chunk.js": "/portfolio/static/js/2.f87fe216.chunk.js",
+    "static/js/2.f87fe216.chunk.js.map": "/portfolio/static/js/2.f87fe216.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.6256c50b.chunk.css.map": "/portfolio/static/css/main.6256c50b.chunk.css.map",
-    "static/js/2.2fe56757.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2fe56757.chunk.js.LICENSE.txt",
+    "static/css/main.2864b8d3.chunk.css.map": "/portfolio/static/css/main.2864b8d3.chunk.css.map",
+    "static/js/2.f87fe216.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f87fe216.chunk.js.LICENSE.txt",
     "static/media/main.css": "/portfolio/static/media/fa-solid-900.e4efd599.woff",
     "static/media/cel.153d91ed.png": "/portfolio/static/media/cel.153d91ed.png",
+    "static/media/cel1.3e63898c.png": "/portfolio/static/media/cel1.3e63898c.png",
     "static/media/cel1.4558e683.png": "/portfolio/static/media/cel1.4558e683.png",
-    "static/media/intro.854bf1d5.png": "/portfolio/static/media/intro.854bf1d5.png"
+    "static/media/celular.65d45026.png": "/portfolio/static/media/celular.65d45026.png",
+    "static/media/home-pc.f554f0e1.png": "/portfolio/static/media/home-pc.f554f0e1.png",
+    "static/media/intro.854bf1d5.png": "/portfolio/static/media/intro.854bf1d5.png",
+    "static/media/intro.a35c58aa.png": "/portfolio/static/media/intro.a35c58aa.png",
+    "static/media/jogo.f59f40ad.png": "/portfolio/static/media/jogo.f59f40ad.png",
+    "static/media/pc.bffc4cf4.png": "/portfolio/static/media/pc.bffc4cf4.png",
+    "static/media/usuario.19b1495c.png": "/portfolio/static/media/usuario.19b1495c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
-    "static/js/2.2fe56757.chunk.js",
-    "static/css/main.6256c50b.chunk.css",
-    "static/js/main.6c7ec58f.chunk.js"
+    "static/js/2.f87fe216.chunk.js",
+    "static/css/main.2864b8d3.chunk.css",
+    "static/js/main.f15875c5.chunk.js"
   ]
 }
